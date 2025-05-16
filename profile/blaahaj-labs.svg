@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="53.763 -64.169 776 776" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:export>
+      <bx:file format="png" dpi="150" path="blaahaj-labs.png" width="2048" height="2048"/>
+    </bx:export>
+  </defs>
+  <path style="stroke: rgb(0, 0, 0); fill: rgb(84, 141, 158); stroke-width: 7px;" d="M 546.63 220.139 C 590.299 220.139 675.673 226.374 747.614 265.418 C 777.465 281.619 661.7 259.766 614.192 298.981" id="dorsal-fin"/>
+  <path style="stroke: rgb(0, 0, 0); fill: rgb(84, 141, 158); stroke-width: 7px;" d="M 362.174 293.581 C 273.035 273.24 246.905 255.026 191.943 231.006 C 165.565 219.478 228.07 345.006 368.18 359.212" id="l-fin"/>
+  <path style="stroke: rgb(0, 0, 0); stroke-width: 7px; fill: rgb(231, 231, 231);" d="M 587.468 277.884 C 492.501 164.662 273.853 31.485 285.849 127.729 C 326.466 192.999 345.402 217.377 355.553 271.849 C 374.23 341 366.876 578.145 349.488 513.767 L 620.142 485.415 C 620.142 485.415 587.319 278.857 587.468 277.884 Z" id="body"/>
+  <path style="stroke: rgb(0, 0, 0); fill: rgb(84, 141, 158); stroke-width: 7px;" d="M 287.314 129.567 C 287.14 46.566 414.046 136.106 457.293 215.759 C 491.269 278.337 515.476 358.112 519.726 373.692 L 613.03 308.501 C 603.879 205.981 549.789 150.017 517.267 115.677 C 481.184 77.577 363.034 -3.389 293.111 4.484 C 244.272 9.49 253.498 82.972 287.314 129.567 Z" id="head"/>
+  <path style="stroke: rgb(0, 0, 0); fill: rgb(255, 207, 235); stroke-width: 7px; stroke-linejoin: round;" d="M 316.902 175.377 C 361.926 193.492 386.048 203.549 421.029 208.133 C 400.037 214.192 364.527 226.344 336.235 211.074 C 332.005 201.427 324.593 188.283 316.902 175.377 Z" id="mouth"/>
+  <path style="stroke: rgb(0, 0, 0); fill: rgb(255, 207, 235); stroke-width: 3px;" d="M 202.775 229.851 L 200.988 311.717 L 210.733 329.387 L 232.491 329.262 L 243.595 316.871 L 242.207 229.541 C 240.901 238.64 203.937 237.136 202.775 229.851 Z" id="liquid"/>
+  <path d="M 244.167 204.003 L 244.167 309.428 C 244.167 321.397 234.464 331.1 222.495 331.101 C 210.525 331.101 200.822 321.398 200.822 309.428 L 200.822 204.003" style="stroke: rgb(0, 0, 0); stroke-width: 7px; fill: none;" id="tube"/>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 7px; fill: none;" cx="222.524" cy="198.717" rx="24.999" ry="10.78" id="rim"/>
+  <circle style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255); stroke-width: 8.94396px;" transform="matrix(0.228906, 0, 0, 0.218323, 60.767792, 174.789536)" cx="676.896" cy="322.459" r="23.318" id="bubble3"/>
+  <circle style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255); stroke-width: 8.94396px;" transform="matrix(0.228906, 0, 0, 0.218323, 76.368103, 211.220856)" cx="676.896" cy="322.459" r="17.474" id="bubble2"/>
+  <circle style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255); stroke-width: 8.94396px;" transform="matrix(0.228906, 0, 0, 0.218323, 59.174206, 237.016617)" cx="676.896" cy="322.459" r="13.106" id="bubble1"/>
+  <circle style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255); stroke-width: 8.94396px;" transform="matrix(0.228906, 0, 0, 0.218323, 79.290436, 77.855438)" cx="676.896" cy="322.459" r="23.318" id="bubble4"/>
+  <g style="transform-origin: 2.28882e-05px 0px;" transform="matrix(0.176826, 0, 0, 0.176826, 204.119888, 121.453331)">
+    <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 5px; transform-box: fill-box; transform-origin: 50% 50%;" d="M0,-100 V100" id="pop"/>
+    <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 5px; transform-box: fill-box; transform-origin: 50% 50%;" d="M 0 -100 L 0 100" id="path-1" transform="matrix(-0.5, 0.866025, -0.866025, -0.5, 0.00003, 0.000008)"/>
+    <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 5px; transform-box: fill-box; transform-origin: 50% 50%;" d="M 0 -100 L 0 100" id="path-2" transform="matrix(-0.5, -0.866025, 0.866025, -0.5, 0.000008, 0.00003)"/>
+    <circle style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: rgb(255, 255, 255);" cx="0" cy="0" r="50"/>
+  </g>
+  <path style="stroke: rgb(0, 0, 0); stroke-width: 7px; fill-rule: nonzero; fill: rgb(255, 255, 255); stroke-linejoin: round; transform-box: fill-box; transform-origin: 50% 50%;" d="M 342.878 275.741 L 473.889 274.912 C 444.555 342.369 443.233 398.005 460.801 481.354 L 428.666 480.915 L 335.429 389.298 L 342.878 275.741 Z" id="coat-l" transform="matrix(-1, 0, 0, -1, 0, -1.769958)"/>
+  <path style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 7px; transform-box: fill-box; transform-origin: 50% 50%;" d="M 395.828 303.388 C 413.784 311.614 435.135 319.812 458.423 330.636 C 463.273 332.892 437.988 344.147 442.959 346.368 C 451.488 350.179 466.348 361.539 488.654 370.423" id="lapel-l" transform="matrix(-1, 0, 0, -1, -31.692993, -4.900009)"/>
+  <path style="stroke: rgb(0, 0, 0); stroke-width: 7px; fill-rule: nonzero; fill: rgb(255, 255, 255); stroke-linejoin: round;" d="M 438.123 445.326 L 612.272 443.872 C 620.569 408.502 625.739 333.995 614.484 276.275 L 528.619 276.443 L 444.895 366.942 C 452.573 393.658 441.145 455.842 438.123 445.326 Z" id="coat-r"/>
+  <rect style="stroke: rgb(0, 0, 0); fill: rgb(84, 141, 158); stroke-width: 10px; stroke-linejoin: round;" x="71.572" y="437.045" width="741.615" height="214.234" rx="107.117" ry="107.117"/>
+  <g transform="matrix(1, 0, 0, 0.8311, 37.519161, 94.450539)" style="">
+    <text style="fill: rgb(255, 255, 255); font-family: &quot;DIN Alternate&quot;; font-size: 28px; white-space: pre;" transform="matrix(4.815044, 0, 0, 5.230176, -2966.946289, -210.578156)" x="636.959" y="153.336">blåhaj</text>
+    <text style="fill: rgb(255, 181, 242); font-family: &quot;DIN Alternate&quot;; font-size: 28px; white-space: pre;" transform="matrix(4.815044, 0, 0, 5.230176, -2593.755615, -205.111069)" x="636.959" y="153.336">labs</text>
+  </g>
+  <path style="stroke: rgb(0, 0, 0); fill: rgb(84, 141, 158); stroke-width: 7px;" d="M 592.379 308.678 C 631.948 362.072 666.046 384.323 723.321 422.009 C 736.694 430.808 602.669 421.367 538.632 352.892 L 592.379 308.678 Z" id="r-fin"/>
+  <circle style="stroke: rgb(0, 0, 0); fill: rgb(26, 26, 26);" cx="399.77461785657755" cy="97.68103734169654" r="18.226993967877092" transform="matrix(0.82877, 0.55959, -0.347333, 0.514411, 123.565704, -138.375397)" id="eye"/>
+  <path style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 7px;" d="M 533.383 227.238 C 527.821 241.051 509.202 250.554 492.882 256.654" id="gill-3"/>
+  <circle style="stroke: rgb(0, 0, 0); stroke-width: 0px;" cx="460.299" cy="376.722" r="6.423" id="button"/>
+  <path style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 7px; transform-box: fill-box; transform-origin: 50% 50%;" d="M 446.853 368.401 C 465.616 357.357 514.335 339.516 538.669 324.983 C 543.738 321.955 514.833 309.342 520.126 306.665 C 535.058 299.112 552.92 294.6 569.192 285.519" id="lapel-r"/>
+  <circle style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255);" cx="429.09" cy="138.088" r="3.301"/>
+  <circle style="stroke: rgb(0, 0, 0); stroke-width: 0px;" cx="460.016" cy="407.944" r="6.423" id="circle-1"/>
+  <path style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 7px;" d="M 522.332 205.693 C 516.77 219.506 498.151 229.009 481.831 235.109" id="path-3"/>
+  <path style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 7px;" d="M 510.36 183.434 C 504.798 197.247 486.179 206.75 469.859 212.85" id="path-4"/>
+</svg>
