@@ -3,6 +3,13 @@
   <defs>
     <bx:export>
       <bx:file format="png" dpi="150" path="blaahaj-labs.png" width="2048" height="2048"/>
+      <bx:file format="png" path="blaahaj-labs.full.png" width="32" height="32">
+        <bx:variant scale="2" suffix="@2x"/>
+        <bx:variant scale="4" suffix="@4x"/>
+        <bx:variant scale="8" suffix="@8x"/>
+        <bx:variant scale="16" suffix="@16x"/>
+        <bx:variant scale="32" suffix="@32x"/>
+      </bx:file>
     </bx:export>
   </defs>
   <path style="stroke: rgb(0, 0, 0); fill: rgb(84, 141, 158); stroke-width: 7px;" d="M 546.63 220.139 C 590.299 220.139 675.673 226.374 747.614 265.418 C 777.465 281.619 661.7 259.766 614.192 298.981" id="dorsal-fin"/>
